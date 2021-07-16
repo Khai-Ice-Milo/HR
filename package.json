@@ -1,0 +1,24 @@
+{
+  "name": "ATS",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000G\u0000o\u0000M\u0000a\u0000m\u0000a\u0000m\u0000\r\u0000 \u0000#\u0000 \u0000G\u0000o\u0000M\u0000a\u0000m\u0000a\u0000m\u0000\r\u0000 \u0000#\u0000 \u0000H\u0000R\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khai-Ice-Milo/HR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Khai-Ice-Milo/HR/issues"
+  },
+  "homepage": "https://github.com/Khai-Ice-Milo/HR#readme"
+}
